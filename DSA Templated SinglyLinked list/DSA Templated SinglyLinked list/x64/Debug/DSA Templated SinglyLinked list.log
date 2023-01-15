@@ -1,0 +1,10 @@
+﻿  SLinkedList.cpp
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\Node.h(10,26): error C3856: 'SLinkedList': symbol is not a class template
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\Node.h(11): message : see reference to class template instantiation 'Node<T>' being compiled
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\Node.h(10,27): error C2146: syntax error: missing ';' before identifier 'T'
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\Node.h(10,28): error C2059: syntax error: '>'
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\Node.h(10,1): error C2238: unexpected token(s) preceding ';'
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\SLinkedList.cpp(17,2): error C2760: syntax error: 'if' was unexpected here; expected 'declaration'
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\SLinkedList.cpp(19,17): error C2760: syntax error: ';' was unexpected here; expected '}'
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\SLinkedList.cpp(18,2): error C2760: syntax error: '{' was unexpected here; expected 'expression'
+D:\practice\DSA Templated SinglyLinked list\DSA Templated SinglyLinked list\SLinkedList.cpp(20,2): error C2760: syntax error: '}' was unexpected here; expected ';'

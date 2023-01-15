@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c18d8a5-57f8-4016-b2f6-ff5da83dfe56": {
+      "ProjectGuid": "1c18d8a5-57f8-4016-b2f6-ff5da83dfe56",
+      "DisplayName": "partially initialized array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

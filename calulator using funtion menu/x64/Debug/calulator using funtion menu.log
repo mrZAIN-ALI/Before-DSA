@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\practice\calulator using funtion menu\Source.cpp(62,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\practice\calulator using funtion menu\Source.cpp(62,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  calulator using funtion menu.vcxproj -> E:\practice\calulator using funtion menu\x64\Debug\calulator using funtion menu.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "295c2206-d0f6-4cdb-aebf-9233a9df7ffe": {
+      "ProjectGuid": "295c2206-d0f6-4cdb-aebf-9233a9df7ffe",
+      "DisplayName": "call UDF again in UDF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

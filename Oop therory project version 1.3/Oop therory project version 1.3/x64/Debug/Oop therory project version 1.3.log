@@ -1,0 +1,7 @@
+﻿  Driver.cpp
+D:\practice\Oop therory project version 1.3\Oop therory project version 1.3\Driver.cpp(286,110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\practice\Oop therory project version 1.3\Oop therory project version 1.3\Driver.cpp(338,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SignIn.cpp
+  Generating Code...
+D:\practice\Oop therory project version 1.3\Oop therory project version 1.3\SignIn.cpp(83): warning C4715: 'check_Credentials': not all control paths return a value
+  Oop therory project version 1.3.vcxproj -> D:\practice\Oop therory project version 1.3\x64\Debug\Oop therory project version 1.3.exe

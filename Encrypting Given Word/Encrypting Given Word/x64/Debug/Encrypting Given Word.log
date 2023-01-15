@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\practice\Encrypting Given Word\Encrypting Given Word\Main.cpp(30,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\practice\Encrypting Given Word\Encrypting Given Word\Main.cpp(60,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Encrypting Given Word.vcxproj -> D:\practice\Encrypting Given Word\x64\Debug\Encrypting Given Word.exe

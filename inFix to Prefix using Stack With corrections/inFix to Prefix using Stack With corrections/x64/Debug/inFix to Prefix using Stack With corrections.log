@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\practice\inFix to Prefix using Stack With corrections\inFix to Prefix using Stack With corrections\Source.cpp(54,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\practice\inFix to Prefix using Stack With corrections\inFix to Prefix using Stack With corrections\Source.cpp(117,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\practice\inFix to Prefix using Stack With corrections\inFix to Prefix using Stack With corrections\Source.cpp(30): warning C4715: 'inStack': not all control paths return a value
+D:\practice\inFix to Prefix using Stack With corrections\inFix to Prefix using Stack With corrections\Source.cpp(49): warning C4715: 'outStack': not all control paths return a value
+  inFix to Prefix using Stack With corrections.vcxproj -> D:\practice\inFix to Prefix using Stack With corrections\x64\Debug\inFix to Prefix using Stack With corrections.exe

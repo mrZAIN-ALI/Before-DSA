@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6c88b0d-faae-4591-81c4-406f1149d8af": {
+      "ProjectGuid": "d6c88b0d-faae-4591-81c4-406f1149d8af",
+      "DisplayName": "calling two arrays with same (one )inex",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\practice\Semester 3 Html Tags Assignment\Semester 3 Html Tags Assignment\Source.cpp(66,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Semester 3 Html Tags Assignment.vcxproj -> D:\practice\Semester 3 Html Tags Assignment\x64\Debug\Semester 3 Html Tags Assignment.exe

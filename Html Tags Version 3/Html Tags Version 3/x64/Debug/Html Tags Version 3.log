@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\practice\Html Tags Version 3\Html Tags Version 3\TagsMatch.h(162,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Html Tags Version 3.vcxproj -> D:\practice\Html Tags Version 3\x64\Debug\Html Tags Version 3.exe

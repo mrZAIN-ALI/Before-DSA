@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c76a0dec-c819-40ce-a11f-d5c79a214be6": {
+      "ProjectGuid": "c76a0dec-c819-40ce-a11f-d5c79a214be6",
+      "DisplayName": "Passing value to funtion by reftence varibale",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

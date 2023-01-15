@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8efa3d0-e66b-4708-b160-7deb999b0f73": {
+      "ProjectGuid": "a8efa3d0-e66b-4708-b160-7deb999b0f73",
+      "DisplayName": "Summing values of file",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

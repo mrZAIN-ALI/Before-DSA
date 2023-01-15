@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c692073f-d336-4563-8ce9-d253d9baa537": {
+      "ProjectGuid": "c692073f-d336-4563-8ce9-d253d9baa537",
+      "DisplayName": "static local variable retain it's last value stored",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

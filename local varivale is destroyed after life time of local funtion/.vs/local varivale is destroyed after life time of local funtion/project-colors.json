@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b501277-97ea-45f3-a6e1-84abe25e8f7b": {
+      "ProjectGuid": "5b501277-97ea-45f3-a6e1-84abe25e8f7b",
+      "DisplayName": "local varivale is destroyed after life time of local funtion",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

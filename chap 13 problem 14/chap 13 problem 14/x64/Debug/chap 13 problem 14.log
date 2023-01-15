@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\practice\chap 13 problem 14\chap 13 problem 14\Source.cpp(9,13): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  chap 13 problem 14.vcxproj -> D:\practice\chap 13 problem 14\x64\Debug\chap 13 problem 14.exe

@@ -1,0 +1,5 @@
+﻿  coin.cpp
+D:\practice\Chap 13 problem 13\Chap 13 problem 13\coin.cpp(30,13): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main program .cpp
+  Generating Code...
+  Chap 13 problem 13.vcxproj -> D:\practice\Chap 13 problem 13\x64\Debug\Chap 13 problem 13.exe

@@ -1,0 +1,17 @@
+Peanut Butter
+g01
+Grocery
+Good
+2	0	3Milk
+g02
+Grocery
+Fresh
+1	0	3Creal
+g03
+Grocery
+Bad
+4	0	1yougort
+g04
+Grocery
+Bad
+5	0	4

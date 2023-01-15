@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cf0e3a1-6c19-4768-b075-5f658e99a9c8": {
+      "ProjectGuid": "7cf0e3a1-6c19-4768-b075-5f658e99a9c8",
+      "DisplayName": "testing escape sequences",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

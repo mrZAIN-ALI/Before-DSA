@@ -1,0 +1,25 @@
+PS5
+e01
+Electronics
+White
+45	10.55	2Xbox
+e02
+Electronics
+Black
+41	9.79	3Mouce
+e03
+Electronics
+Black
+4	2.76	5Laptop
+e04
+Electronics
+Silver
+40	6.76	700Usb
+e05
+Electronics
+Golden
+5	2.95	0Macbook 2
+e06
+Electronics
+Grey
+400	78	1

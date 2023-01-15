@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\practice\Infix to post fix using stack with more precision\Infix to post fix using stack with more precision\Source.cpp(30): warning C4715: 'inStack': not all control paths return a value
+D:\practice\Infix to post fix using stack with more precision\Infix to post fix using stack with more precision\Source.cpp(49): warning C4715: 'outStack': not all control paths return a value
+  Infix to post fix using stack with more precision.vcxproj -> D:\practice\Infix to post fix using stack with more precision\x64\Debug\Infix to post fix using stack with more precision.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bf055e3-cc31-4d32-a396-cb2050de7f02": {
+      "ProjectGuid": "9bf055e3-cc31-4d32-a396-cb2050de7f02",
+      "DisplayName": "summing up values passed in UDF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

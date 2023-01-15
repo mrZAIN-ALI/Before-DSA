@@ -1,0 +1,5 @@
+@admin
+pass
+Lahore
+M
+123456789	1	

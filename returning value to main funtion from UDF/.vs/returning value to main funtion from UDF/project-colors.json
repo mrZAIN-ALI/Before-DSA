@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e83578ad-ea38-481e-b913-d905684074c4": {
+      "ProjectGuid": "e83578ad-ea38-481e-b913-d905684074c4",
+      "DisplayName": "returning value to main funtion from UDF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\practice\some more functions about  iterator\some more functions about  iterator\Source.cpp(39,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  some more functions about  iterator.vcxproj -> D:\practice\some more functions about  iterator\x64\Debug\some more functions about  iterator.exe

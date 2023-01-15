@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\practice\Using Final and ovrride ketword\Using Final and ovrride ketword\Source.cpp(23,15): error C3668: 'Dog::function1': method with override specifier 'override' did not override any base class methods

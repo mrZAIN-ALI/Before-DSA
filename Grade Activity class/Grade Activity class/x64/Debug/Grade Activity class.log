@@ -1,0 +1,5 @@
+﻿  gradeactivity.cpp
+  Main.cpp
+D:\practice\Grade Activity class\Grade Activity class\Main.cpp(7,7): warning C4101: 'grade': unreferenced local variable
+  Generating Code...
+  Grade Activity class.vcxproj -> D:\practice\Grade Activity class\x64\Debug\Grade Activity class.exe

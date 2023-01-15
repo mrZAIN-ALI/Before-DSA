@@ -1,0 +1,2 @@
+﻿  Source.cpp
+E:\practice\using default arguments\Source.cpp(5): error C2548: 'areaout': missing default argument for parameter 2
